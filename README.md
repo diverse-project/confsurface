@@ -12,7 +12,7 @@
  * sqlite : https://github.com/ternava/sqlite/tree/sqlite-compileoptions
  * xz : https://github.com/ternava/xz/tree/xz-compileoptions
 
-In each project of the system there is a `measures` folder, which contains the used scripts and the obtained results on `binary size` and `number of gadgets`. 
+In each project of the system there is a `measures` folder, which contains the used scripts and the obtained results regarding the `binary size` and `number of gadgets` in over 400 configurations. 
 
  #### Feature models: 
  * [FM of x264](featuremodels/fm-x264.png)
