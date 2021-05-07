@@ -13,3 +13,4 @@ Subject systems:
  * xz : https://github.com/ternava/xz/tree/xz-compileoptions
 
  Feature models: 
+ * [FM of x264](featuremodels/fm-x264.png)
