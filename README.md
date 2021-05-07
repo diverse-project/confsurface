@@ -6,4 +6,10 @@ Scratching the surface of configurable systems:
  * automate the exploration with variability modeling and reproducible build environment
  
 Subject systems:
- * x264 
+ * x264 : https://github.com/ternava/x264/tree/x264-compileoptions
+ * nginx : https://github.com/ternava/nginx/tree/branches/nginx-conf-options
+ * curl : https://github.com/ternava/curl/tree/curl-compileoptions
+ * sqlite : https://github.com/ternava/sqlite/tree/sqlite-compileoptions
+ * xz : https://github.com/ternava/xz/tree/xz-compileoptions
+
+ Feature models: 
